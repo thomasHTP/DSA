@@ -1,4 +1,3 @@
-<img width="1710" height="1068" alt="Screenshot 2025-09-03 at 5 25 22 pm" src="https://github.com/user-attachments/assets/7063be4a-d3d6-4c8d-83db-873cf3ea66f8" />Electric Vehicle Charging:
 Complexity Analysis
 **Introduction:**
 Demonstrate your understanding of the problem. (2 marks)
