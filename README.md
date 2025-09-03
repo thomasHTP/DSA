@@ -1,4 +1,4 @@
-Electric Vehicle Charging:
+<img width="1710" height="1068" alt="Screenshot 2025-09-03 at 5 25 22 pm" src="https://github.com/user-attachments/assets/7063be4a-d3d6-4c8d-83db-873cf3ea66f8" />Electric Vehicle Charging:
 Complexity Analysis
 **Introduction:**
 Demonstrate your understanding of the problem. (2 marks)
@@ -151,6 +151,11 @@ spanning tree to all vertices. Then I used Dijkstra’s algorithm to calculate t
 path to all vertices. I also created a heuristic value by modifying Dijkstra’s algorithm to
 record the cheapest heuristic from source to all vertices. which allowed me to calculate
 the minimum costing path, and which stations are most optimal to stop at when
+
+<img width="596" height="438" alt="Screenshot 2025-09-03 at 5 26 00 pm" src="https://github.com/user-attachments/assets/b62e7e0d-4f7f-4560-b1c3-9c3222218c6e" />
+
+<img width="596" height="807" alt="Screenshot 2025-09-03 at 5 25 45 pm" src="https://github.com/user-attachments/assets/e4ca0e36-edeb-4cbc-a09a-81137262676d" />
+
 travelling from a source to end. Then, I got the minimum heuristics from source to every
 vertex, then from the current vertex to every other vertex, then to the destination, for all
 vertices. Using these 3 algorithms, I was able to complete all Tasks.
